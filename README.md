@@ -1,8 +1,8 @@
 # Opay-Google-Play-Store-Sentiment-Analysis
 
+### Overview
 
-
-This project analyzes user reviews from the Google Play Store to understand customer sentiment towards Opay mobile app. It leverages natural language processing (NLP) techniques and the VADER sentiment analysis tool to categorize reviews as positive, negative, or neutral.
+This project analyzes user reviews from the Google Play Store to understand customer sentiment towards Opay mobile app. It leverages natural language processing (NLP) techniques and the VADER sentiment analysis tool to categorize reviews as positive, negative, or neutral and visualizing the insights using Power BI.
 
 ## Project Steps
 
@@ -28,9 +28,6 @@ This project analyzes user reviews from the Google Play Store to understand cust
 - `Power BI`
 
 ## Opay App Review Analysis Dashboard
-
-### Overview
-This project involves scraping reviews from the Google Play Store for the Opay app, analyzing the data, and visualizing the insights using Power BI.
 
 ### Key Insights
 1. **Overall Sentiment**: The Opay app has a positive sentiment score of 85.53%, with an average rating of 4.28/5 from 258K reviews.
