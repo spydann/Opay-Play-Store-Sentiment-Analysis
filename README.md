@@ -23,7 +23,7 @@ This project analyzes user reviews from the Google Play Store to understand cust
 - `matplotlib`
 - `seaborn`
 - `wordcloud`
-## Tools Uses
+## Tools Used
 - `Python`
 - `Power BI`
 
