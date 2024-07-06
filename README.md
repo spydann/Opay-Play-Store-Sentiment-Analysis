@@ -24,8 +24,8 @@ This project analyzes user reviews from the Google Play Store to understand cust
 - `seaborn`
 - `wordcloud`
 ## Tools Uses
-- Python
-- Power BI
+- `Python`
+- `Power BI`
 
 ## Opay App Review Analysis Dashboard
 
